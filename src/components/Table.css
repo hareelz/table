@@ -1,0 +1,9 @@
+table, thead, tbody {
+ 
+    border: 3px solid #245488;
+  }
+  
+  td, th, tr {
+    padding: 10px 20px;
+    text-align: center;
+  }
